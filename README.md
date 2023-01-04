@@ -2,4 +2,4 @@
 
 ## Space Invaders game made with Vanilla JavaScript.
 
-Arrow keys to move and spacebar to shoot. Thats it, have fun!
+A & D keys to move and spacebar to shoot. Thats it, have fun!
